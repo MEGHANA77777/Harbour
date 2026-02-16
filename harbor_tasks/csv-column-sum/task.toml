@@ -1,0 +1,15 @@
+[metadata]
+name = "csv-column-sum"
+category = "data-processing"
+difficulty = "easy"
+description = "Sum values in a CSV column and write the result"
+
+[environment]
+memory_mb = 256
+storage_mb = 100
+
+[verifier]
+timeout = 30
+
+[agent]
+timeout = 120
